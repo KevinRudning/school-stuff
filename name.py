@@ -1,3 +1,6 @@
+
+print("suck me daddy")
+
 print("yo mama big")
 
 print('''its about drive its about power
